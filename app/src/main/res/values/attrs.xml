@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomGameDownloadView">
+        <attr name="statusWidth" format="dimension"/>
+        <attr name="statusHeight" format="dimension"/>
+        <attr name="statusCornerRadius" format="dimension"/>
+        <attr name="statusStrokeBoundWidth" format="dimension"/>
+        <attr name="statusTextSize" format="dimension"/>
+        <attr name="statusUpTextColor" format="color"/>
+        <attr name="statusDownTextColor" format="color"/>
+        <attr name="statusUpBackgroundColor" format="color"/>
+        <attr name="statusDownBackgroundColor" format="color"/>
+    </declare-styleable>
+</resources>
